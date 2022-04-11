@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+Welcome to DCS UH-60L Mod!
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
